@@ -1,0 +1,3 @@
+[submodule "Heroes-CRUD-Api--Django"]
+	path = Heroes-CRUD-Api--Django
+	url = https://github.com/with-shrey/Heroes-CRUD-Api--Django.git
